@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository provides the Mega coin contract and its Multisig wallet contract.
+This repository provides the Mega coin contract.
 
 ## Contracts
 
